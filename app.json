@@ -1,0 +1,17 @@
+{
+  "name": "darkScenario",
+  "displayName": "darkScenario",
+  "expo": {
+    "name": "darkScenario",
+    "slug": "darkScenario",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
