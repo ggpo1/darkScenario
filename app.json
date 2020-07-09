@@ -12,6 +12,14 @@
     ],
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.devcore.darkScenario"
+    },
+    "ios": {
+      "bundleIdentifier": "com.devcore.darkScenario",
+      "buildNumber": "1.0.0",
+      "supportsTablet": false
+    }
   }
 }
